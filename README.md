@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Spring AI**
 
-- 🤝 I’m looking for help with **my TRAVO-Find you way, Find your Buddy Application**
-
 - 💬 Ask me about **backend development**
 
 - 📫 How to reach me **rakshaypandey@gmail.com**
